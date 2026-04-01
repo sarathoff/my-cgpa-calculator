@@ -28,6 +28,9 @@ export const metadata: Metadata = {
     title: "CGPA Calculator | Official CGPA to Percentage Conversion Tool",
     description: "Convert CGPA to percentage and SGPA to CGPA instantly with our accurate online calculator.",
   },
+  verification: {
+    google: "-mh2xecVUB2Du97RbmiXQrWTtu9BKCxVDzSwp9k3bh0",
+  },
 };
 
 export default function RootLayout({
